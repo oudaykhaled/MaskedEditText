@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EditText
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:text="-"
+        android:hint="-"
+        android:textColor="@drawable/default_masket_edittext"
+        android:textColorHint="@color/masked_hint"
+        android:background="@null"
+        android:textSize="@dimen/text_17sp"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:focusedByDefault="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>

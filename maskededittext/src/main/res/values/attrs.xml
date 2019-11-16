@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MaskedEditText">
+        <attr name="CharTextView" format="reference"/>
+        <attr name="pattern" format="string"/>
+    </declare-styleable>
+
+</resources>
